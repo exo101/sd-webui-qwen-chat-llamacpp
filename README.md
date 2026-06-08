@@ -1,8 +1,3 @@
-# Qwen 图像识别与语言交互插件
-
-本插件为 Stable Diffusion WebUI Forge 提供强大的图像识别和智能对话功能，基于 Qwen 系列多模态大模型。
-<img width="1804" height="764" alt="e6e48fec874a7dab8dc44657b5b31c22" src="https://github.com/user-attachments/assets/9179d303-9324-40b3-ae27-862f1264261a" />
-
 
 # Qwen 图像识别与语言交互插件
 
